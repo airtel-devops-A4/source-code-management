@@ -1,0 +1,1 @@
+Switch between open windows. To cycle through multiple windows, continue to hold the Alt key and press Tab multiple times. For actions in command or context menus, some windows and apps specify keyboard shortcuts by underlining a character in the action name. Press Alt and then the letter to do that action.
