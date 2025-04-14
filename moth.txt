@@ -1,3 +1,4 @@
-pod:hdfc bank details updated;
-scrum:to late for the call;
-yaml file is not coded.
+$api version :v30;
+port : number 303
+api calling : yes;
+
